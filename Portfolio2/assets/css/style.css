@@ -1,3 +1,6 @@
+    html {
+    scroll-padding-top: 80px; /* default navbar height */
+
 *{
     margin: 0;
     padding: 0;
@@ -554,5 +557,6 @@ footer {
         font-size: 12px;
     }
 }
+
 
 
