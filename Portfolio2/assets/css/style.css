@@ -429,6 +429,8 @@ footer {
     transition: 0.3s;
     cursor: pointer;
 
+    }
+
     /* Hero */
     .hero {
         flex-direction: column;
@@ -574,6 +576,7 @@ footer {
         font-size: 12px;
     }
 }
+
 
 
 
